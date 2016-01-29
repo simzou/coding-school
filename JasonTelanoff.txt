@@ -1,1 +1,21 @@
-<h1 style= font-size: 30; color: red>JASON TELANOFF</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <tittle>First Website</tittle>
+  </head>
+  <body>
+  <h1 style= font-size: 30; color: red>JASON TELANOFF</h1>
+    <a href="https://www.javascript.com/">
+      <img src="https://sptwentyten.files.wordpress.com/2010/08/javascriptlogo.png">
+    </a>
+    <a href="https://www.arduino.cc/">
+      <img src="https://pbs.twimg.com/profile_images/378800000704356438/9d19310763171b0d958d23a18b3d7e1c_400x400.png">
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png">
+    </a>
+    <a href="https://www.youtube.com/channel/UCAQ5pCJXyhLSMeL5r50HpQg">My You-Tube</a>
+  </body>
+</html>
+
+
